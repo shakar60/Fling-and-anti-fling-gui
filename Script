@@ -1,6 +1,6 @@
 -- Create the ScreenGui
 local gui = Instance.new("ScreenGui")
-gui.Name = "ScriptLauncherGui"
+gui.Name = "Fling And Anti FlingGui"
 gui.Parent = game.Players.LocalPlayer.PlayerGui
 
 -- Create the main frame
